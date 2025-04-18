@@ -1,27 +1,24 @@
+## 🧠 Emotional Support Agent 🧠
+This is a proof of concept (PoC) for a mental health AI agent, built using Streamlit, AutoGen, and OpenAI.
 
-# 🧠 Emotional Support Agent  🧠
+## Features
 
-  
-Esta es una prueba de concepto (PoC) de un agente de IA para la salud mental, creado utilizando Streamlit, AutoGen y OpenAI.
+Analyzes emotional state and psychological needs with clinical accuracy and empathy
 
-## Funcionalidades
+Generates immediate action plans and connects users with the right resources
 
--   Analiza el estado emocional y las necesidades psicológicas con precisión clínica y empatía
--   Crea planes de acción inmediatos y conecta a los usuarios con los recursos adecuados
--   Diseña estrategias de apoyo a largo plazo y planes de prevención
-  
-##  Resultados Interactivos
- 
--   Recomendaciones detalladas en secciones desplegables
--   Pasos de acción claros y recursos disponibles
--   Estrategias de apoyo a largo plazo
+Designs long-term support strategies and prevention plans
 
+Interactive Results
 
-## Como ejecutarlo
+Detailed recommendations in expandable sections
 
-Clonar el repositorio, y activar un ambiente virtual
+Clear action steps and available resources
 
+Long-term support strategies
 
+## How to Run
+Clone the repository and activate a virtual environment
 
 ```
 
